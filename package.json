@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "RPG project",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwinilh/RPG.git"
+  },
+  "author": "Ashwini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwinilh/RPG/issues"
+  },
+  "homepage": "https://github.com/ashwinilh/RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
